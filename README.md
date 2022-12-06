@@ -1,1 +1,1 @@
-# primebnb
+# bnbprime
